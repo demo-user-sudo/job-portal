@@ -1,0 +1,11 @@
+<svg width="180" height="38" viewBox="0 0 180 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+ 
+  <rect x="4" y="10" width="28" height="18" rx="2" ry="2" fill="#4CAF50"/>
+  <rect x="10" y="6" width="16" height="6" rx="1" ry="1" fill="#4CAF50"/>
+  <line x1="4" y1="18" x2="32" y2="18" stroke="white" stroke-width="2"/>
+  
+ 
+  <text x="40" y="25" fill="#4CAF50" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Job Portal
+  </text>
+</svg>
